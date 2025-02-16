@@ -17,6 +17,7 @@ Schematic:
 The schematic itself wasn't actually too difficult to do once I found the footprints for each component and got some help from a friend about the ports for the LEDs (SK6812 MINI-Es). Just had to make some global labels and search up how to do a matrix layout and I was set!
 
 Layout (Without back silkscreen art):
+
 ![image](https://github.com/user-attachments/assets/17fecf9d-68d9-4603-acc8-514441187dff)
 
 Oh God, the layout. Actually deciding on the layout caused me to add another key to make it look nicer along with the rotary encoder which caused a massive headache since this was after initially wiring it. Furthermore, since I was told that my wiring was ***atrocious*** I rewired the layout *4 times* until I finally managed to get a decent wiring layout. This took ~3 days along with the mandatory procrastination and college work. However, in the end I was really pleased with how it turned out! I don't think I could've done much better given the timeframe.
