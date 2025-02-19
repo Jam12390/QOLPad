@@ -5,10 +5,11 @@ Too hard to press your hotkey for deafening in discord? Well now you can use the
 But seriously, this macropad is used for discord hotkeys, media and volume control, featuring skipping and rewinding songs and a rotary encoder for easier control of volume!
 
 CAD Design:
-![image](https://github.com/user-attachments/assets/5ce9eabe-ca9a-4400-839e-e98805dabedd)
-![image](https://github.com/user-attachments/assets/b8eb4b18-26bd-403c-b3a4-eb7c26b96b4b)
+![image](https://github.com/user-attachments/assets/8ca3768c-d174-4df6-94f5-2cef841bbc9e)
 
-The top image image shows the pcb and case parts in 1 file fitting together. I sadly didn't have time to import the 3D models for the footprints :c since I had *too* much trouble finding out how to code the firmware, leading me to be writing this readme about 3 hours before the deadline :l. From what I could see, the 3D models weren't required and I made sure that every switch and the MRC each had enough space to fit inside the case (shown in the second topdown image). I planned to use Cherry MX Brown switches so on the pcb I used a cherry MX 1.00u footprint for the switches. As for the rotary encoder, I used the EC11E footprint with circular mounting holes.
+![image](https://github.com/user-attachments/assets/b942e6d4-3e61-4acb-beb7-f4bdccd20cbd)
+
+The top image image shows the pcb and case parts in 1 file fitting together. After adding the 3D models to the pcb, i saw that the switches didn't fit through the top case. I fixed this though :D. I planned to use Cherry MX Brown switches so on the pcb I used a cherry MX 1.00u footprint for the switches. As for the rotary encoder, I used the EC11E footprint with circular mounting holes.
 
 PCB:
 Schematic:
