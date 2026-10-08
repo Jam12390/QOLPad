@@ -1,6 +1,6 @@
 # QOLPad
 
-The QOLPad (Quality Of Life Pad) is a 6 key macropad designed fooorr, about anything which minorly inconveniences me in day-to-day life.
+The QOLPad (Quality Of Life Pad) is a 6 key macropad designed fooorr, just about anything which slightly inconveniences me in day-to-day life.
 Too hard to press your hotkey for deafening in discord? Well now you can use the QOLPad, an entirely different keyboard for deafening yourself (among other things)!
 But seriously, this macropad is used for discord hotkeys, media and volume control, featuring skipping and rewinding songs and a rotary encoder for easier control of volume!
 
@@ -25,9 +25,4 @@ Oh God, the layout. Actually deciding on the layout caused me to add another key
 
 Firmware:
 
-The bane of my existance (and exhibit A for my lack of common sense). This took ***WAY*** too long because of me jumping around from KMK to QMK and bashing my head against the documentation for 3 hours before I realised that I'd missed the initial pin numbers on the MRC... After that and the pain of figuring out how to install KMK and use the modules, it took me ~1 hour to make the firmware. However, due to my lack of eyes and subpar reading skills, this section took me around 8 hours (yes I know it's bad).
-
-Even with the firmware issues, I really enjoyed making a hackpad (even if it is a bit simple) and it's gotten me interested more in CAD and PCB design as a whole!
-
-Potential Issues:
-When running DRC in the pcb layout designer, there are ~30 errors, however these are from the reverse mounted neopixels having too little clearance. From the guide of common DRC errors, I was told to ignore this however please lmk if this is incorrect and if anything needs changing!
+The bane of my existence (and exhibit A for my lack of common sense). This took ***WAY*** too long because of me jumping around from KMK to QMK and bashing my head against the documentation for 3 hours before I realised that I'd missed the initial pin numbers on the MRC... After that and the pain of figuring out how to install KMK and use the modules, it took me ~1 hour to make the firmware. However, due to my lack of eyes and subpar reading skills, this section took me around 8 hours (yes I know it's bad).
